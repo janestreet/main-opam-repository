@@ -1,2 +1,1 @@
-archive: "https://ocaml.janestreet.com/ocaml-core/113.33/files/async_ssl-113.33.05.tar.gz"
-checksum: "a7cc3f96ff2c8c02a68fbda9490ad0d5"
+git: "git://github.com/janestreet/async_ssl#685a617fdc6f45c8c3eac412dcfba011ef28ec68"
